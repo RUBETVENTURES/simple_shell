@@ -97,7 +97,7 @@ int environmentsetunset(char *argv_here[])
  * if other  command is typed
  * and fork and exceve implement cmd
  * by iterating through paths provided by the PATH
- * envp element
+ * env
  *
  * @envp: envp elements from main function argument
  * is passed here
